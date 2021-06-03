@@ -486,3 +486,6 @@
 #mnuTab2.cv-advfilt-tab {
   overflow: visible;
 }
+.custom-width-350 {
+	width: 350px !important;
+}
